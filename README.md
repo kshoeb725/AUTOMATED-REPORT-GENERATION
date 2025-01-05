@@ -10,7 +10,7 @@
 
 **Mentor**: Neela Santhosh Kumar
 
-**PROJECT**: API INTEGRATION AND DATA VISUALIZATION
+**PROJECT**: AUTOMATED REPORT GENERATION
 
 ### Overview of the Code
 
@@ -21,6 +21,7 @@ This Python script is designed to read data from a CSV file, analyze that data, 
 ### OUPUT OF THE TASK
 
 ![task2](https://github.com/user-attachments/assets/b8b80d40-3ec0-42c7-adb6-f4a8f07958f5)
+
 ![task22](https://github.com/user-attachments/assets/75748c66-a3d3-477a-8d51-d9a1f755e512)
 
 ---
